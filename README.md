@@ -8,15 +8,13 @@
 <a href=https://twitter.com/leofierus > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 
 
-<a href=https://www.instagram.com/leofierus/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img>
+<a href=https://www.instagram.com/leofierus/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></br>
 
 
 
-Name: Malhar Patel
-
-Position: Android Developer & Game Developer
-
-Email: leofierus@gmail.com
+#### Name: Malhar Patel
+#### Position: Android Developer & Game Developer
+#### Email: leofierus@gmail.com
 
 #### <h4>About Myself: 
 Hey readers,
