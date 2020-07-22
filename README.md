@@ -25,13 +25,13 @@ I am a student developer experience in C, C++, Java, Kotlin and Python. I am lea
 # Education
 
 
- <li> <h4>College Name: Gujarat Technological University</h4>
+ <li><h4>College Name: Gujarat Technological University</h4>
  <h4> SPI - 7.99 </h4>
  </li>
- <li> <h4>XII School: Gujarat Secondary and Higher Secondary Education Board</h4>
+ <li><h4>XII Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
  <h4> Percentage - 90% </h4>
-  </li>
- <li><h4>X School: Gujarat Secondary and Higher Secondary Education Board</h4>
+ </li>
+ <li><h4>X Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
  <h4> Percentage - 89% </h4>
  </li>
 
