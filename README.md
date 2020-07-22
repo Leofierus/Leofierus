@@ -9,9 +9,11 @@
 
 
 <a href=https://www.instagram.com/leofierus/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></br>
+<br>
 
+</br>
 
-
+#### 
 #### Name: Malhar Patel
 #### Position: Android Developer & Game Developer
 #### Email: leofierus@gmail.com
