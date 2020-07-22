@@ -11,6 +11,7 @@
 <a href=https://www.instagram.com/leofierus/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img>
 
 
+
 #### <br>Name: Malhar Patel
 
 #### Position: Android Developer & Game Developer
@@ -24,16 +25,16 @@ I am a student developer experience in C, C++, Java, Kotlin and Python. I am lea
 
 # Education
 
-
- <li><h4>College Name: Gujarat Technological University</h4>
+ <ul>
+ <li> <h4>College Name: Gujarat Technological University</h4>
  <h4> SPI - 7.99 </h4>
  </li>
- <li><h4>XII Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
+ <li> <h4>XII Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
  <h4> Percentage - 90% </h4>
  </li>
- <li><h4>X Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
+ <li> <h4>X Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
  <h4> Percentage - 89% </h4>
- </li>
+ </li></ul>
 
 # Projects
 
