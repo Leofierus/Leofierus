@@ -66,4 +66,4 @@ I am a student developer experience in C, C++, Java, Kotlin and Python. I am lea
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Leofierus)
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/Leofierus/Leofierus/master/dino.gif)
