@@ -12,11 +12,11 @@
 
 
 
-#### <br>Name: Malhar Patel
+Name: Malhar Patel
 
-#### Position: Android Developer & Game Developer
+Position: Android Developer & Game Developer
 
-#### Email: leofierus@gmail.com
+Email: leofierus@gmail.com
 
 #### <h4>About Myself: 
 Hey readers,
