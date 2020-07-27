@@ -21,7 +21,7 @@
 #### <h4>About Myself: 
 Hey readers,
 
-I am a student developer experience in C, C++, Java, Kotlin and Python. I am learning to develop games in Unity with the help of Blender. I am also a competitive programmer and I love to code. I also code different fractals and infinite images just to show people the power of simple codes. Hope you find something useful here.</h4>
+I am a student developer experienced in C, C++, Java, Kotlin and Python. I am learning to develop games in Unity with the help of Blender. I am also a competitive programmer and I love to code. I also code different fractals and infinite images just to show people the power of simple codes. Hope you find something useful here.</h4>
 
 # Education
 
