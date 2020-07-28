@@ -40,14 +40,12 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 
 <ul>
 <li> <h4>Project Name : Prototype of an autonomous soil irrigation system with the help of IOT</h4> 
-<h4> Project Description : - We assembled various databases of the amount of water that different types of plantations require, thus helping the farmer to enter all the data with his/her mobile phone.
-- We also managed to reduce the loss of water by saving upto 43% of the water used in normal irrigation systems.</h4> 
+<h4> Project Description : We assembled various databases of the amount of water that different types of plantations require, thus helping the farmer to enter all the data with his/her mobile phone. We also managed to reduce the loss of water by saving upto 43% of the water used in normal irrigation systems.</h4> 
 <h4>  From : 2018-12</h4> 
  <h4>  To :2019-02</h4> 
  </li> 
 <li> <h4>Project Name : Mobile Lights synchronizer</h4> 
-<h4> Project Description : I worked as part of a team that attempted to synchronize the Flashlights of mobile phones on a wide area without the use of internet connection and only using frequencies.
-- I used mathematical forms of Doppler Effects and properties of frequencies and their variance with environmental variables to perfectly find a frequency with minimum distortion.</h4> 
+<h4> Project Description : I worked as part of a team that attempted to synchronize the Flashlights of mobile phones on a wide area without the use of internet connection and only using frequencies. I used mathematical forms of Doppler Effects and properties of frequencies and their variance with environmental variables to perfectly find a frequency with minimum distortion.</h4> 
  </li></ul>
 
 # Skills
