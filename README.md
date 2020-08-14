@@ -8,7 +8,7 @@
 <a href=https://twitter.com/leofierus > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 
 
-<a href=https://www.instagram.com/leofierus/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://www.instagram.com/leofierus > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img>
 
 
 <a href="https://dev.to/leofierus"> <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  height="40" width="40"></img></br>
