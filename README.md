@@ -65,6 +65,6 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 
 <ul><li>Bagged 75% scholarship in "Codechef Scholarship Exam" for its "Codechef Data Structures Exam" which is given to top 5% performers in its competitive coding championships.</li> <li>Achieved a rank of 6257 in Google Hash-Code 2020.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li></ul>
 
-
+![Codewars profile](https://www.codewars.com/users/Leofierus/badges/large)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Leofierus)
 ![Dino](https://raw.githubusercontent.com/Leofierus/Leofierus/master/dino.gif)
