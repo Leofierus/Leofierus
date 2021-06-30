@@ -52,18 +52,20 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
  </li></ul>
 
 # Skills
-- Android Studio
 - Visual Studio
-- Unity
+- Adobe Illustrator/Photoshop/Premiere Pro/After Effects
+- Unity/Unreal Engine
 - Blender
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe After Effects
-- Adobe Premiere Pro
+- IntelliJ/Android Studio
+- Xampp
+- Arduino IDE
+- Power BI Desktop
+- Discord Bots API
+
 
 # Achievements
 
-<ul><li>Bagged 75% scholarship in "Codechef Scholarship Exam" for its "Codechef Data Structures Exam" which is given to top 5% performers in its competitive coding championships.</li> <li>Achieved a rank of 6257 in Google Hash-Code 2020.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li></ul>
+<ul><li>Won first place in district level Physics Project Technical event - Indra held at GCET, Vidyanagar</li> <li>Achieved a rank of 6257 in Google Hash-Code 2020.</li> <li>Qualified for award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance in Top 1% of State Board at Class XII level.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li></ul>
 
 ![Codewars profile](https://www.codewars.com/users/Leofierus/badges/large)
 
