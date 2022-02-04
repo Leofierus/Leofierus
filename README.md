@@ -47,8 +47,8 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 <h4>  From : 2018-12</h4> 
  <h4>  To :2019-02</h4> 
  </li> 
-<li> <h4>Project Name : Mobile Lights synchronizer</h4> 
-<h4> Project Description : I worked as part of a team that attempted to synchronize the Flashlights of mobile phones on a wide area without the use of internet connection and only using frequencies. I used mathematical forms of Doppler Effects and properties of frequencies and their variance with environmental variables to perfectly find a frequency with minimum distortion.</h4> 
+<li> <h4>Project Name : SteamAPI-based online multiplayer game with in-game optimisations</h4> 
+<h4> Project Description: I helped in creating the player models, movement animations and the map for the game in blender and then importing it in Unreal Engine. We used SteamAPI to enhance the multiplayer experience and reduce the player latency with a centralized server to ensure fair play, by maintaining a proper connection layer, for the players playing the game.</h4> 
  </li></ul>
 
 # Skills
@@ -65,7 +65,7 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 
 # Achievements
 
-<ul><li>Won first place in district level Physics Project Technical event - Indra held at GCET, Vidyanagar</li> <li>Achieved a rank of 6257 in Google Hash-Code 2020.</li> <li>Qualified for award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance in Top 1% of State Board at Class XII level.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li></ul>
+<ul><li>Won first place in district level Physics Project Technical event - Indra held at GCET, Vidyanagar</li><li>Qualified for award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance in Top 1% of State Board at Class XII level.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li></ul>
 
 ![Codewars profile](https://www.codewars.com/users/Leofierus/badges/large)
 
