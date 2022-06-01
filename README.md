@@ -65,7 +65,7 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 
 # Achievements
 
-<ul><li>Won first place in district level Physics Project Technical event - Indra held at GCET, Vidyanagar</li><li>Qualified for award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance in Top 1% of State Board at Class XII level.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li><li>Total time spent programming since 01 June, 2022.
+<ul><li>Won first place in district level Physics Project Technical event - Indra held at GCET, Vidyanagar</li><li>Qualified for award of Scholarship for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) by virtue of performance in Top 1% of State Board at Class XII level.</li> <li>Won the Second Prize in Gujarat for The TATA Creative Writing Competition in 2011.</li><li>Total time spent programming since 19 May, 2022.
  
 [![wakatime](https://wakatime.com/badge/user/b3f5de9c-62a4-4c11-92ec-78c46f18edb5.svg)](https://wakatime.com/@b3f5de9c-62a4-4c11-92ec-78c46f18edb5)</li></ul>
 
