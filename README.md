@@ -30,7 +30,7 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 
  <ul>
  <li> <h4>College Name: Gujarat Technological University</h4>
- <h4> CPI - 8.07 </h4>
+ <h4> CGPA - 8.51 </h4>
  </li>
  <li> <h4>XII Grade: Gujarat Secondary and Higher Secondary Education Board</h4>
  <h4> Percentage - 90% </h4>
@@ -61,6 +61,8 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 - Arduino IDE
 - Power BI Desktop
 - Discord Bots API
+- Docker
+- Apache Kafka
 
 
 # Achievements
