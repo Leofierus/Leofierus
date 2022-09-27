@@ -18,13 +18,13 @@
 
 #### 
 #### Name: Malhar Patel
-#### Position: Android Developer & Game Developer
+#### Position: Associate Software Engineer
 #### Email: leofierus@gmail.com
 
 #### <h4>About Myself: 
 Hey readers,
 
-I am a student developer experienced in C, C++, Java, Kotlin and Python. I am learning to develop games in Unity with the help of Blender. I am also a competitive programmer and I love to code. I also code different fractals and infinite images just to show people the power of simple codes. Hope you find something useful here.</h4>
+I am a developer experienced in C, C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer and I love to code. I love learning new technologies. Happy to find you here!</h4>
 
 # Education
 
@@ -47,7 +47,7 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 <h4>  From : 2018-12</h4> 
  <h4>  To :2019-02</h4> 
  </li> 
-<li> <h4>Project Name : SteamAPI-based online multiplayer game with in-game optimisations</h4> 
+<li> <h4>Project Name : Steam API-based online multiplayer game with in-game optimisations</h4> 
 <h4> Project Description: I helped in creating the player models, movement animations and the map for the game in blender and then importing it in Unreal Engine. We used SteamAPI to enhance the multiplayer experience and reduce the player latency with a centralized server to ensure fair play, by maintaining a proper connection layer, for the players playing the game.</h4> 
  </li></ul>
 
@@ -63,6 +63,8 @@ I am a student developer experienced in C, C++, Java, Kotlin and Python. I am le
 - Discord Bots API
 - Docker
 - Apache Kafka
+- Apache Spark
+- GraphQL/GraphiQL
 
 
 # Achievements
