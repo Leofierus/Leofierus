@@ -1,12 +1,12 @@
 <h1 align="center">
   
-  Hello there, I'm Malhar 'Leofierus' Patel 🦋
+  Hey there, I'm Malhar "Leofierus" Patel 🦋
 <!--   <img alt="emoji" width="40" src="https://github.com/buildkite/emojis/blob/main/img-apple-64/1f98b.png" /> -->
 </h1>
 
 <div>
   <p align="center">
-  Hey there, I am a developer experienced in C, C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer and I love to code. I love learning new technologies. Happy to find you here!</h4>
+  I am a developer experienced in C, C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer and I love to code. I love learning new technologies. Happy to find you here!</h4>
   </p>
   <h3 align="center"> Full-Stack Developer | Writer | Budding Game Developer </h3>
 </div>
@@ -15,6 +15,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Leofierus&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Leofierus Profile Visits" />
     <img src="https://wakatime.com/badge/user/b3f5de9c-62a4-4c11-92ec-78c46f18edb5.svg?style=for-the-badge" alt="Leofierus Coding Time" />
+<!--    <img src="https://www.codewars.com/users/Leofierus/badges/micro" alt="Leofierus Codewars Profile" /> -->
   </p>
 </h3>
 
