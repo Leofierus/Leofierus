@@ -6,7 +6,7 @@
 
 <div>
   <p align="center">
-  I am a developer experienced in C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer and I love to code. I love learning new technologies. Happy to find you here!</h4>
+  I am a developer experienced in C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer and I love to code and learning new technologies.</h4>
   </p>
   <h3 align="center"> Full-Stack Developer | Writer | Budding Game Developer </h3>
 </div>
