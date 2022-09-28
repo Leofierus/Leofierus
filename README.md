@@ -20,7 +20,7 @@
 </h3>
 
 <div>
-  <h2 align="center">Thing-a-majigs I've been exploring / using</h2>
+  <h2 align="center">Tools of Trade 🔭</h2>
   <p align="center"> 
 <!--    Languages/Frameworks -->
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
