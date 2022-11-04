@@ -106,6 +106,10 @@
 
 [![Leofierus's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Leofierus&theme=xcode)](https://github.com/Leofierus)
 
+<div align="center">
+  <p><img align="center" src="https://holopin.io/api/user/board?user=leofierus" alt="Leofierus's Holopin Board" /></p>
+</div>
+
 <!-- USE LATER  
 
 Link containing image
