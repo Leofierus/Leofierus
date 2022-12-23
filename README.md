@@ -104,7 +104,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leofierus&theme=dark" alt="Leofierus" /></p>
 </div>
 
-[![Leofierus's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Leofierus&theme=xcode)](https://github.com/Leofierus)
+<!-- [![Leofierus's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Leofierus&theme=xcode)](https://github.com/Leofierus) -->
 
 <div align="center">
   <p><img align="center" src="https://holopin.io/api/user/board?user=leofierus" alt="Leofierus's Holopin Board" /></p>
