@@ -8,7 +8,7 @@
   <p align="center">
   I am a developer experienced in C++, Java, Kotlin and Python. Along with learning to develop games in Unity with the help of Blender, I am also a competitive programmer who loves coding and learning new technologies.</h4>
   </p>
-  <h3 align="center"> Full-Stack Developer | Writer | Budding Game Developer </h3>
+  <h3 align="center"> Full-Stack Developer | Computational Neuroscience Researcher </h3>
 </div>
 
 <h3>
